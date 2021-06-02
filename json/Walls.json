@@ -203,6 +203,36 @@
             "url": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template35.png",
             "name": "GreenFlowers",
             "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/templates/twelve_template35.jpg"
+        }, 
+        {
+            "author": "Wigebox",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template36.jpg",
+            "name": "mystiq Flowers",
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template36.jpg"
+        }, 
+        {
+            "author": "Wigebox",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template37.jpg",
+            "name": "watermelon",
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template37.jpg"
+        },
+        {
+            "author": "ryunosuke kikuno",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template38.jpg",
+            "name": "roses"
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template38.jpg"
+        },  
+        {
+            "author": "j lee",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template39.jpg",
+            "name": "white lilys"
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template39.jpg"
+        },   
+        {
+            "author": "wigebox",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template40.jpg",
+            "name": "material"
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template40.jpg"
         }
     ] 
 }
