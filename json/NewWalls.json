@@ -233,6 +233,30 @@
             "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template40.jpg",
             "name": "material",
             "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template40.jpg"
+        },   
+        {
+            "author": "jashua case",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template_41.jpg",
+            "name": "canyon",
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template_41.jpg"
+        },  
+        {
+            "author": "Bernando ramonfaur",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template_42.jpg",
+            "name": "desert palm",
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template_42.jpg"
+        },
+        {
+            "author": "wigebox",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template_43.jpg",
+            "name": "material pixel",
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template_43.jpg"
+        },    
+        {
+            "author": "wigebox",
+            "url": "https://github.com/CatalystWalls/Twelve-KWGT/blob/main/twelve_template_44.jpg",
+            "name": "material pixel 2",
+            "thumbnail": "https://github.com/CatalystWalls/Twelve-KWGT/raw/main/twelve_template_44.jpg"
         }
     ] 
 }
